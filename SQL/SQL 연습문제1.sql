@@ -3,9 +3,9 @@
 #내용 : SQL 연습문제 1
 
 #실습 1-1
-create database `Java1_Shop`;
-create user 'java1_admin1'@'%' identified by '1234';
-grant all privileges on `java1_shop`.* to 'java1_admin1'@'%';
+create database `Java2Shop`;
+create user 'java2_admin1'@'%' identified by '1234';
+grant all privileges on `java2_shop`.* to 'java2_admin1'@'%';
 flush privileges;
 
 #실습 1-2
